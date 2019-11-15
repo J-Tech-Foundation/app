@@ -1,2 +1,2 @@
-# app
-The official app of Dunemar.
+# Dunemar 
+A platform for everyone.
