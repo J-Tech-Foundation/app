@@ -1,0 +1,10 @@
+{
+  "dependencies":{
+   "socket.io":"*",
+   "socket.io-client":"*",
+   "express":"4.x"
+  },
+  "scripts":{
+    "start":"START_SCRIPT_HERE"
+  }
+}
